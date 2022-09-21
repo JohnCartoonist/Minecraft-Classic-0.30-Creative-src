@@ -1,0 +1,137 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0 (Sun Microsystems Inc.)
+
+Name: com/mojang/minecraft/phys/AABB.class
+
+Name: gui/gui.png
+
+Name: com/mojang/minecraft/MinecraftApplet$1.class
+
+Name: terrain.png
+
+Name: com/mojang/minecraft/mob/Spider.class
+
+Name: com/mojang/minecraft/player/Inventory.class
+
+Name: com/mojang/minecraft/particle/WaterDropParticle.class
+
+Name: rain.png
+
+Name: 2char.png
+
+Name: default.png
+
+Name: mob/skeleton.png
+
+Name: rock.png
+
+Name: mob/spider.png
+
+Name: particles.png
+
+Name: com/mojang/minecraft/level/tile/Tile$SoundType.class
+
+Name: com/mojang/minecraft/mob/Creeper$1.class
+
+Name: armor/chain.png
+
+Name: dirt.png
+
+Name: com/mojang/minecraft/mob/ai/AI.class
+
+Name: com/mojang/minecraft/mob/HumanoidMob.class
+
+Name: clouds.png
+
+Name: com/mojang/minecraft/mob/Zombie.class
+
+Name: com/mojang/minecraft/item/Item.class
+
+Name: com/mojang/minecraft/level/BlockMap$Slot.class
+
+Name: com/mojang/minecraft/net/NetworkPlayer.class
+
+Name: null
+
+Name: com/mojang/minecraft/mob/Mob.class
+
+Name: com/mojang/minecraft/player/Player.class
+
+Name: com/mojang/minecraft/mob/ai/BasicAttackAI.class
+
+Name: item/sign.png
+
+Name: com/mojang/minecraft/mob/ai/JumpAttackAI.class
+
+Name: grass.png
+
+Name: com/mojang/minecraft/level/Level.class
+
+Name: com/mojang/minecraft/MinecraftApplet.class
+
+Name: mob/sheep.png
+
+Name: com/mojang/minecraft/particle/SmokeParticle.class
+
+Name: gui/icons.png
+
+Name: com/mojang/minecraft/Entity.class
+
+Name: de/jarnbjo/ogg/EndOfOggStreamException.class
+
+Name: armor/plate.png
+
+Name: mob/sheep_fur.png
+
+Name: mob/pig.png
+
+Name: com/mojang/minecraft/mob/Creeper.class
+
+Name: mob/creeper.png
+
+Name: com/mojang/minecraft/mob/Skeleton.class
+
+Name: de/jarnbjo/ogg/OggFormatException.class
+
+Name: com/mojang/minecraft/StopGameException.class
+
+Name: com/mojang/minecraft/item/Arrow.class
+
+Name: com/mojang/minecraft/particle/Particle.class
+
+Name: com/mojang/minecraft/mob/Pig.class
+
+Name: com/mojang/minecraft/player/Player$1.class
+
+Name: de/jarnbjo/vorbis/VorbisFormatException.class
+
+Name: com/mojang/minecraft/mob/ai/BasicAI.class
+
+Name: com/mojang/minecraft/item/TakeEntityAnim.class
+
+Name: com/mojang/minecraft/item/PrimedTnt.class
+
+Name: char.png
+
+Name: mob/zombie.png
+
+Name: com/mojang/minecraft/Minecraft$OS.class
+
+Name: com/mojang/minecraft/level/BlockMap.class
+
+Name: item/arrows.png
+
+Name: com/mojang/minecraft/particle/TerrainParticle.class
+
+Name: default.gif
+
+Name: com/mojang/minecraft/mob/Sheep$1.class
+
+Name: com/mojang/minecraft/mob/QuadrupedMob.class
+
+Name: water.png
+
+Name: com/mojang/minecraft/mob/Skeleton$1.class
+
+Name: com/mojang/minecraft/mob/Sheep.class
+
